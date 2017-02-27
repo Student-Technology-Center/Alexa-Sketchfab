@@ -11,7 +11,6 @@ public class STCAlexaSketchfab extends Speechlet {
     private final DatabaseHandler databaseHandler;
 
     public STCAlexaSketchfab(Logger log) {
-        this.log = log;
         BasicConfigurator.configure();
 
         databaseHandler = new DatabaseHandler();
