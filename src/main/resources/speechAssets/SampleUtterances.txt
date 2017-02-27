@@ -1,1 +1,1 @@
-SearchIntent {search}
+SketchfabRequestIntent {search}

@@ -1,7 +1,7 @@
 {
     "intents": [
     {
-        "intent": "SearchIntent",
+        "intent": "SketchfabRequestIntent",
         "slots": [{
             "name": "search",
             "type": "SEARCH"
